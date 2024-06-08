@@ -26,7 +26,11 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Muhammad Naim from Johor, Malaysia
+  <br><br>
+  - 🔭 I’m a student at Universiti Teknologi Malaysia
+  <br>- 📚 I'm currently on my last year study
+  <br>- ⚡ In my free time I explore the world</p>
 
 ###
 
